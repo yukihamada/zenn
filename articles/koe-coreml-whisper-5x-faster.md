@@ -219,3 +219,5 @@ curl -fsSL https://koe.elio.love/install.sh | bash
 ```
 
 公式サイト: [koe.elio.love](https://koe.elio.love)
+
+アプリを直接ダウンロード: [Koe.app.zip (v2.5.1)](https://github.com/yukihamada/Koe-swift/releases/latest/download/Koe.app.zip)
