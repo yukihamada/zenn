@@ -3,7 +3,7 @@ title: "teai.ioに都度チャージ(pay-as-you-go)機能を実装した話"
 emoji: "💳"
 type: "tech"
 topics: ["stripe", "rust", "api", "saas"]
-published: false
+published: true
 ---
 
 ## はじめに
