@@ -1,5 +1,5 @@
 ---
-title: "Koe v2.7 + iOS v1.1.0 — WidgetKit・Dynamic Island・iPhoneとMacのP2P連携を全部実装した"
+title: "Koe v2.7 — WidgetKit・Dynamic Island・iPhone/MacのP2P連携を全部実装した"
 emoji: "🎙"
 type: "tech"
 topics: ["swift", "widgetkit", "activitykit", "appintents", "multipeerconnectivity"]
