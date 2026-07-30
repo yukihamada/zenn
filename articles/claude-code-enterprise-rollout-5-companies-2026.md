@@ -1,5 +1,5 @@
 ---
-title: "Claude Code を会社で配るとき、何が正解か — メルカリ・楽天・ZOZO・GMO・Gemcook 5社の事例から見えた2026年の指針"
+title: "Claude Codeを会社で配るとき何が正解か — 5社事例から見えた2026年の指針"
 emoji: "🏢"
 type: "idea"
 topics: ["claudecode", "ai", "anthropic", "agent", "enterprise"]
