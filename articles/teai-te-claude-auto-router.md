@@ -1,6 +1,6 @@
 ---
-title: "te claude 一発でClaude Codeの裏側をKimi K3に — さらに model:\"teai/auto\" で安⇔賢を自動切替"
-emoji: "🎛️"
+title: "te claude 一発でClaude Codeの裏側をKimi K3に — teai/auto で安⇔賢を自動切替"
+emoji: "🔀"
 type: "tech"
 topics: ["claudecode", "llm", "kimi", "rust", "api"]
 published: true
