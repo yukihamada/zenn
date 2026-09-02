@@ -1,5 +1,5 @@
 ---
-title: "Claude Codeの従量課金が高すぎて、自分でLLMゲートウェイを作った話（teai.io / sente）"
+title: "Claude Codeの従量課金が高すぎて、自分でLLMゲートウェイを作った話（teai.io と sente）"
 emoji: "💸"
 type: "tech"
 topics: ["claudecode", "llm", "opencode", "個人開発", "api"]

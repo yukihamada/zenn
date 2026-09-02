@@ -1,9 +1,9 @@
 ---
 title: "OpenRouterとteai.ioを徹底比較 — 日本のAI開発者はどっちを選ぶべき？"
-emoji: "⚖️"
+emoji: "⚖"
 type: "tech"
 topics: ["llm", "api", "openrouter", "ai", "openai"]
-published: true
+published: false
 ---
 
 ## はじめに

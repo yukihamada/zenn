@@ -1,5 +1,5 @@
 ---
-title: "te claude 一発でClaude Codeの裏側をKimi K3に — teai/auto で安⇔賢を自動切替"
+title: "te claude 一発でClaude Codeの裏側をKimi K3に — 自動ルーターで安いモデルと賢いモデルを切り替える"
 emoji: "🔀"
 type: "tech"
 topics: ["claudecode", "llm", "kimi", "rust", "api"]
