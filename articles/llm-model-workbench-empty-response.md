@@ -3,7 +3,7 @@ title: "AIに実務コードを頼んだら、正解でも次の回には答え�
 emoji: "🧪"
 type: "tech"
 topics: ["ai", "llm", "ベンチマーク", "個人開発", "api"]
-published: false
+published: true
 ---
 
 AIを仕事に使うとき、どのモデルを選ぶか。
